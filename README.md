@@ -1,20 +1,19 @@
-- variaveis:
+- VARIAVEIS:
 
 $nome = "vinicius";
 
 $idade = "22";
 
-//echo e print são usado pra mostrar algo em html
-
+echo e print são usado pra mostrar algo em html
 echo 'comando echo'
 print 'comando print'
 
-// Linguagem de escopo de tipagem dinâmico 
+/Linguagem de escopo de tipagem dinâmico 
 
-- Concatenação em strings:
+- CONCATENAÇÃO EM STRINGS:
 
-//Aspas simples
-$simples = 'ola' . $nome . ', você tem '. $idade . 'anos';
+	-Aspas simples
+	$simples = 'ola' . $nome . ', você tem '. $idade . 'anos';
 
 //Aspas duplas
 $duplas = "ola $nome, você tem $idade anos";
